@@ -1,8 +1,8 @@
+# Sistema de Classificação de Candidatos em Java
+
+## 📖 Descrição Geral
+
 Sistema em Java para gerenciamento e classificação de candidatos eleitorais. O projeto lê dados de candidatos de um arquivo, permite consultas por número de inscrição e gera um arquivo com os dois melhores candidatos classificados por critérios de pontuação, idade e dependentes.
-
-# 📋 Sistema de Gerenciamento de Candidatos
-
-Este projeto em Java realiza a leitura de dados de candidatos a partir de um arquivo, permite consulta por número de inscrição e classifica os dois melhores candidatos com base em critérios específicos.
 
 ## 🎯 Objetivo
 
@@ -41,6 +41,7 @@ sistema-classificacao-candidatos/
 ### 📄 Formato do Arquivo `Candidatos.txt`
 
 O arquivo deve conter os dados de **5 candidatos**, seguindo a ordem abaixo para cada um:
+
 ```
 Número de inscrição (int)
 Nome (String)
@@ -72,11 +73,15 @@ Maria Souza
 ```
 javac MenuCand.java Candidatos.java CandidatoFuncoes.java
 ```
+
 3. Execute o programa:
+
 ```
 java MenuCand
 ```
+
 4. Navegue pelo menu:
+   
 ```
 Menu
 1 - Leitura de Candidatos
