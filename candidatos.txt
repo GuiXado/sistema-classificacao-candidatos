@@ -1,0 +1,250 @@
+1001
+João Silva
+34
+2
+85
+1002
+Maria Souza
+29
+1
+92
+1003
+Carlos Lima
+41
+3
+78
+1004
+Ana Costa
+22
+0
+95
+1005
+Paulo Mendes
+36
+1
+88
+1006
+Fernanda Rocha
+61
+2
+85
+1007
+Bruno Tavares
+45
+4
+90
+1008
+Camila Barros
+33
+2
+87
+1009
+Rafael Moura
+39
+1
+80
+1010
+Juliana Alves
+58
+3
+84
+1011
+Lucas Ramos
+27
+0
+91
+1012
+Patrícia Duarte
+62
+1
+93
+1013
+Marcelo Teixeira
+52
+2
+86
+1014
+Tatiane Leal
+43
+2
+88
+1015
+Ricardo Gonçalves
+31
+3
+79
+1016
+Aline Fernandes
+26
+1
+90
+1017
+Tiago Rocha
+64
+2
+84
+1018
+Larissa Martins
+37
+2
+82
+1019
+Eduardo Pires
+30
+1
+85
+1020
+Simone Castro
+46
+0
+87
+1021
+Felipe Duarte
+60
+3
+89
+1022
+Vanessa Lopes
+24
+0
+92
+1023
+Gustavo Torres
+38
+2
+86
+1024
+Michele Nascimento
+49
+1
+83
+1025
+André Almeida
+28
+2
+84
+1026
+Luciana Ribeiro
+63
+2
+90
+1027
+Renato Oliveira
+50
+1
+88
+1028
+Isabela Vieira
+36
+1
+81
+1029
+Fábio Correia
+35
+3
+87
+1030
+Beatriz Santos
+61
+2
+91
+1031
+Rodrigo Moraes
+40
+1
+80
+1032
+Natália Cunha
+34
+2
+85
+1033
+Diego Souza
+55
+1
+89
+1034
+Letícia Gomes
+23
+0
+93
+1035
+Pedro Henrique
+29
+2
+84
+1036
+Sandra Farias
+66
+1
+88
+1037
+Henrique Luz
+44
+2
+86
+1038
+Tatiane Reis
+32
+0
+82
+1039
+Fernando Dias
+48
+3
+90
+1040
+Cíntia Braga
+30
+1
+83
+1041
+Douglas Silva
+27
+2
+79
+1042
+Helena Pacheco
+39
+0
+85
+1043
+Joana Dantas
+59
+1
+91
+1044
+Murilo Salles
+53
+2
+87
+1045
+Renata Meireles
+25
+1
+88
+1046
+Danilo Cardoso
+42
+3
+80
+1047
+Elisa Fontes
+60
+0
+92
+1048
+Wesley Azevedo
+33
+2
+84
+1049
+Juliane Soares
+38
+1
+89
+1050
+Adriana Lima
+47
+2
+90

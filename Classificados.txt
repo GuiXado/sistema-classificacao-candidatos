@@ -1,0 +1,10 @@
+Candidatos Aprovado!Inscriç?o: 1018
+Nome: Beatriz Castro
+Idade: 39
+Numero dependentes: 3
+Pontuaç?o: 96
+Inscriç?o: 1004
+Nome: Ana Costa
+Idade: 22
+Numero dependentes: 0
+Pontuaç?o: 95
