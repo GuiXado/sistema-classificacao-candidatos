@@ -29,6 +29,7 @@ A ordenação e seleção dos candidatos segue os seguintes critérios, nesta or
    - Prioriza o candidato com maior número de dependentes
 
 ## 🧱 Estrutura do Projeto
+
 ```
 sistema-classificacao-candidatos/
 ├── MenuCand.java # Menu principal com opções de interação
@@ -40,7 +41,7 @@ sistema-classificacao-candidatos/
 
 ### 📄 Formato do Arquivo `Candidatos.txt`
 
-O arquivo deve conter os dados de **5 candidatos**, seguindo a ordem abaixo para cada um:
+O arquivo deve conter os dados de **5 candidatos** (ou mais), seguindo a ordem abaixo para cada um:
 
 ```
 Número de inscrição (int)
@@ -50,19 +51,51 @@ Número de dependentes (int)
 Pontuação total (int)
 ```
 
-Exemplo de conteúdo:
+Exemplo de conteúdo do `Candidatos.txt`:
 
 ```
-101
+1001
 João Silva
-45
+34
 2
 85
-102
+1002
 Maria Souza
-63
+29
+1
+92
+1003
+Carlos Lima
+41
+3
+78
+1004
+Ana Costa
+22
 0
-85
+95
+1005
+Paulo Mendes
+36
+1
+88
+...
+```
+
+### 📄 Exemplo de Arquivo `Classificados2.txt` Gerado
+
+```
+Inscrição: 1018
+Nome: Beatriz Castro
+Idade: 39
+Número de dependentes: 3
+Pontuação: 96
+
+Inscrição: 1004
+Nome: Ana Costa
+Idade: 22
+Número de dependentes: 0
+Pontuação: 95
 ```
 
 ## ▶️ Como Executar
